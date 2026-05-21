@@ -1,2 +1,2 @@
 # LC-solutions
-Here I stores all my Leetcode Solutions
+Here I store all my Leetcode Solutions
