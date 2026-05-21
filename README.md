@@ -21,3 +21,11 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 Problem Name/
  ├── README.md
  ├── solution.cpp
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3931-check-adjacent-digit-differences](https://github.com/Harshitastic/LC-solutions/tree/master/3931-check-adjacent-digit-differences) |
+<!---LeetCode Topics End-->
