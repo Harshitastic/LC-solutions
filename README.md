@@ -28,4 +28,12 @@ Problem Name/
 |  |
 | ------- |
 | [3931-check-adjacent-digit-differences](https://github.com/Harshitastic/LC-solutions/tree/master/3931-check-adjacent-digit-differences) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitastic/LC-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitastic/LC-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
