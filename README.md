@@ -27,6 +27,7 @@ Problem Name/
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3931-check-adjacent-digit-differences](https://github.com/Harshitastic/LC-solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Array
 |  |
@@ -36,4 +37,8 @@ Problem Name/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitastic/LC-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
