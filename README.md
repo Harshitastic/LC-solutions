@@ -25,6 +25,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/Harshitastic/LC-solutions/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -33,4 +34,8 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshitastic/LC-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
