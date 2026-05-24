@@ -29,6 +29,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Harshitastic/LC-solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -39,6 +40,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -55,4 +57,8 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
