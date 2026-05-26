@@ -69,6 +69,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0876-middle-of-the-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,5 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
