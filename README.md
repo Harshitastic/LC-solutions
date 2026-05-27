@@ -33,6 +33,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshitastic/LC-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +48,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshitastic/LC-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
 |  |
 | ------- |
