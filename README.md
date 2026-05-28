@@ -67,6 +67,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
 ## Counting
 |  |
@@ -91,6 +92,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshitastic/LC-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Harshitastic/LC-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -105,6 +107,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
