@@ -20,6 +20,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
 |  |
 | ------- |
