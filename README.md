@@ -72,6 +72,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0002-add-two-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Harshitastic/LC-solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
 |  |
@@ -120,6 +121,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0050-powx-n](https://github.com/Harshitastic/LC-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
