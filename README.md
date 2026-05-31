@@ -20,6 +20,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
+| [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -61,6 +62,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
 ## Stack
 |  |
 | ------- |
@@ -130,4 +132,8 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
