@@ -22,6 +22,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshitastic/LC-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -149,4 +150,9 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0022-generate-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
