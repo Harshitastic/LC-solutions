@@ -8,9 +8,11 @@ public:
         long long n=llabs((long long)dividend);
         long long d=llabs((long long)divisor);
         long long ans=0,sum=0;
-        while(sum+d<=n){
-            ans++;
-            sum+=d;
+        while(n>=d){
+            int cnt=0;
+            while(n>=(d<<(cnt+1))) cnt++;
+            ans+=1<<cnt;
+            n-=(d<<cnt);
         }
         if(ans>INT_MAX) return INT_MAX*sign;
 
