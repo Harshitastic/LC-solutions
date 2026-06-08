@@ -165,6 +165,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0029-divide-two-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Harshitastic/LC-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
 | ------- |
