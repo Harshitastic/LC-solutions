@@ -32,6 +32,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshitastic/LC-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitastic/LC-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Harshitastic/LC-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshitastic/LC-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Harshitastic/LC-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
 |  |
 | ------- |
