@@ -40,6 +40,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0008-string-to-integer-atoi](https://github.com/Harshitastic/LC-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
@@ -79,6 +80,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Harshitastic/LC-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitastic/LC-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0234-palindrome-linked-list) |
