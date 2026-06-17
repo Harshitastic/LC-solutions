@@ -49,6 +49,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshitastic/LC-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
 |  |
 | ------- |
@@ -187,6 +188,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshitastic/LC-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Enumeration
 |  |
 | ------- |
