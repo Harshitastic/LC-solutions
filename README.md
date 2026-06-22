@@ -46,6 +46,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Harshitastic/LC-solutions/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshitastic/LC-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -65,6 +66,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshitastic/LC-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -102,6 +104,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
