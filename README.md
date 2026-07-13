@@ -208,6 +208,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Harshitastic/LC-solutions/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
