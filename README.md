@@ -22,6 +22,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
@@ -91,6 +92,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Harshitastic/LC-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshitastic/LC-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitastic/LC-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -119,6 +121,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshitastic/LC-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Harshitastic/LC-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Harshitastic/LC-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -134,6 +137,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -231,6 +235,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
