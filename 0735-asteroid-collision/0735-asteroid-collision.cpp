@@ -15,7 +15,7 @@ public:
                         st.push(asteroids[i]);
                         continue;
                 }
-                if(abs(asteroids[i])<st.top()) continue;
+                
                 if(abs(asteroids[i])==st.top()) st.pop();
             }
             else{
