@@ -30,6 +30,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0216-combination-sum-iii](https://github.com/Harshitastic/LC-solutions/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitastic/LC-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshitastic/LC-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
@@ -99,6 +100,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0234-palindrome-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -206,6 +208,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshitastic/LC-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Enumeration
