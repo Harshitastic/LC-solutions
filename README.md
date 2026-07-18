@@ -24,6 +24,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0040-combination-sum-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
@@ -96,6 +97,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Harshitastic/LC-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshitastic/LC-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitastic/LC-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -144,6 +146,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0005-longest-palindromic-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 ## Linked List
 |  |
 | ------- |
@@ -244,7 +247,12 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshitastic/LC-solutions/tree/master/2104-sum-of-subarray-ranges) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
