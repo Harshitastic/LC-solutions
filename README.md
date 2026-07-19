@@ -105,6 +105,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshitastic/LC-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -234,6 +235,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0155-min-stack](https://github.com/Harshitastic/LC-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshitastic/LC-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitastic/LC-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -250,9 +252,14 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshitastic/LC-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
