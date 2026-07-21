@@ -32,6 +32,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Harshitastic/LC-solutions/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitastic/LC-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshitastic/LC-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -214,6 +215,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitastic/LC-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
@@ -267,4 +269,12 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
