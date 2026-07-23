@@ -42,6 +42,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [2104-sum-of-subarray-ranges](https://github.com/Harshitastic/LC-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshitastic/LC-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Harshitastic/LC-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshitastic/LC-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitastic/LC-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -213,6 +214,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Harshitastic/LC-solutions/tree/master/0216-combination-sum-iii) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Harshitastic/LC-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,6 +222,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Harshitastic/LC-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Harshitastic/LC-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshitastic/LC-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Prefix Sum
@@ -241,6 +244,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Harshitastic/LC-solutions/tree/master/1291-sequential-digits) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/Harshitastic/LC-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshitastic/LC-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
