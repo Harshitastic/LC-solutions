@@ -43,6 +43,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshitastic/LC-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitastic/LC-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshitastic/LC-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshitastic/LC-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
@@ -125,6 +126,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1922-count-good-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshitastic/LC-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshitastic/LC-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
 | ------- |
@@ -214,6 +216,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Harshitastic/LC-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshitastic/LC-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Prefix Sum
 |  |
 | ------- |
