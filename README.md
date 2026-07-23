@@ -32,6 +32,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Harshitastic/LC-solutions/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitastic/LC-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -81,6 +82,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshitastic/LC-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -220,6 +222,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitastic/LC-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
@@ -282,5 +285,6 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
