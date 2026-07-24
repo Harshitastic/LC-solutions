@@ -33,6 +33,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitastic/LC-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Harshitastic/LC-solutions/tree/master/1260-shift-2d-grid) |
@@ -85,6 +86,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitastic/LC-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -136,6 +138,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -294,6 +297,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitastic/LC-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
