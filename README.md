@@ -58,6 +58,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -77,6 +78,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshitastic/LC-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harshitastic/LC-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -295,6 +297,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
