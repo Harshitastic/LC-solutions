@@ -107,6 +107,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshitastic/LC-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshitastic/LC-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshitastic/LC-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshitastic/LC-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshitastic/LC-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshitastic/LC-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
