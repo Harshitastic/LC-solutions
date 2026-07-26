@@ -66,6 +66,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Harshitastic/LC-solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -126,6 +127,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0234-palindrome-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -177,6 +179,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0022-generate-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -217,6 +220,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Harshitastic/LC-solutions/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitastic/LC-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshitastic/LC-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
