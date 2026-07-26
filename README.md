@@ -31,6 +31,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0216-combination-sum-iii](https://github.com/Harshitastic/LC-solutions/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -103,6 +104,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitastic/LC-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshitastic/LC-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Harshitastic/LC-solutions/tree/master/2126-destroying-asteroids) |
@@ -133,6 +135,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0029-divide-two-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Harshitastic/LC-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitastic/LC-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshitastic/LC-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
