@@ -28,6 +28,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Harshitastic/LC-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Harshitastic/LC-solutions/tree/master/0216-combination-sum-iii) |
@@ -229,6 +230,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshitastic/LC-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/Harshitastic/LC-solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Harshitastic/LC-solutions/tree/master/0860-lemonade-change) |
