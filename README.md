@@ -33,6 +33,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Harshitastic/LC-solutions/tree/master/0216-combination-sum-iii) |
+| [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0503-next-greater-element-ii) |
@@ -114,6 +115,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshitastic/LC-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +191,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
@@ -232,6 +235,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0011-container-with-most-water](https://github.com/Harshitastic/LC-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Harshitastic/LC-solutions/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Harshitastic/LC-solutions/tree/master/0860-lemonade-change) |
