@@ -19,6 +19,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshitastic/LC-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0040-combination-sum-ii) |
@@ -164,6 +165,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Harshitastic/LC-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshitastic/LC-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Harshitastic/LC-solutions/tree/master/0061-rotate-list) |
@@ -225,6 +227,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshitastic/LC-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
