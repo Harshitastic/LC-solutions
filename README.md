@@ -25,6 +25,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0040-combination-sum-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/Harshitastic/LC-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
