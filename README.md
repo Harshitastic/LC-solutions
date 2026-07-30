@@ -40,6 +40,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/Harshitastic/LC-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Harshitastic/LC-solutions/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -102,6 +103,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Harshitastic/LC-solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -122,6 +124,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0846-hand-of-straights](https://github.com/Harshitastic/LC-solutions/tree/master/0846-hand-of-straights) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshitastic/LC-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitastic/LC-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshitastic/LC-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -248,6 +251,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/Harshitastic/LC-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Harshitastic/LC-solutions/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshitastic/LC-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshitastic/LC-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
