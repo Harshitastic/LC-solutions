@@ -198,6 +198,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshitastic/LC-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Harshitastic/LC-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Harshitastic/LC-solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshitastic/LC-solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -224,10 +225,12 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
 ## Greedy
 |  |
@@ -343,5 +346,6 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshitastic/LC-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
