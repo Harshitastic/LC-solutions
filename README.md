@@ -101,6 +101,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
@@ -223,6 +224,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0234-palindrome-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -318,6 +320,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0155-min-stack](https://github.com/Harshitastic/LC-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshitastic/LC-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitastic/LC-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -364,6 +367,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshitastic/LC-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
