@@ -321,6 +321,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0225-implement-stack-using-queues](https://github.com/Harshitastic/LC-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitastic/LC-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -349,6 +350,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
@@ -369,5 +371,18 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshitastic/LC-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
