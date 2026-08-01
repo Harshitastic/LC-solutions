@@ -33,6 +33,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Harshitastic/LC-solutions/tree/master/0216-combination-sum-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
@@ -102,6 +103,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Harshitastic/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitastic/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
@@ -124,6 +126,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Harshitastic/LC-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
@@ -176,6 +179,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -246,6 +250,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Harshitastic/LC-solutions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -373,6 +378,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshitastic/LC-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Harshitastic/LC-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -393,4 +399,12 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
