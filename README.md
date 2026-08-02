@@ -44,6 +44,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Harshitastic/LC-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Harshitastic/LC-solutions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -168,6 +169,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitastic/LC-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshitastic/LC-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -214,6 +216,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -399,6 +402,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
 ## Bucket Sort
 |  |
 | ------- |
