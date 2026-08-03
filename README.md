@@ -147,6 +147,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0020-valid-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshitastic/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Harshitastic/LC-solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Harshitastic/LC-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshitastic/LC-solutions/tree/master/0225-implement-stack-using-queues) |
@@ -390,6 +391,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -399,6 +401,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Game Theory
@@ -425,5 +428,6 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
