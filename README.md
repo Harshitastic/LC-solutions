@@ -411,4 +411,12 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
