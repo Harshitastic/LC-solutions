@@ -33,7 +33,9 @@ public:
         for(auto p:nodes){
             vector<int>c;
             for(auto q : p.second){
-                c.insert(c.end(),q.second.begin(),q.second.end());
+                for(auto val:q.second){
+                    c.push_back(val);
+                }
             }
             ans.push_back(c);
         }
