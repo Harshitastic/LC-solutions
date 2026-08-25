@@ -65,6 +65,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshitastic/LC-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Harshitastic/LC-solutions/tree/master/3731-find-missing-elements) |
+| [4024-nearest-available-drone](https://github.com/Harshitastic/LC-solutions/tree/master/4024-nearest-available-drone) |
 ## String
 |  |
 | ------- |
@@ -332,6 +333,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshitastic/LC-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshitastic/LC-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4024-nearest-available-drone](https://github.com/Harshitastic/LC-solutions/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
