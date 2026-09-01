@@ -112,6 +112,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Harshitastic/LC-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Harshitastic/LC-solutions/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -415,6 +416,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -436,6 +438,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Harshitastic/LC-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Game Theory
 |  |
@@ -472,6 +475,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0199-binary-tree-right-side-view](https://github.com/Harshitastic/LC-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -481,6 +485,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshitastic/LC-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshitastic/LC-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshitastic/LC-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
