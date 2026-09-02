@@ -65,6 +65,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshitastic/LC-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Harshitastic/LC-solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshitastic/LC-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [4024-nearest-available-drone](https://github.com/Harshitastic/LC-solutions/tree/master/4024-nearest-available-drone) |
 ## String
 |  |
@@ -189,6 +190,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshitastic/LC-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshitastic/LC-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshitastic/LC-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
