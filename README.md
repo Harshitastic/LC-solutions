@@ -67,6 +67,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [3731-find-missing-elements](https://github.com/Harshitastic/LC-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshitastic/LC-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Harshitastic/LC-solutions/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/Harshitastic/LC-solutions/tree/master/4024-nearest-available-drone) |
 ## String
 |  |
@@ -322,6 +323,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1004-max-consecutive-ones-iii](https://github.com/Harshitastic/LC-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitastic/LC-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Harshitastic/LC-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/Harshitastic/LC-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
