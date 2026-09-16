@@ -181,6 +181,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0029-divide-two-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Harshitastic/LC-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
+| [0371-sum-of-two-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
@@ -313,6 +314,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0078-subsets](https://github.com/Harshitastic/LC-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshitastic/LC-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Harshitastic/LC-solutions/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0371-sum-of-two-integers) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/Harshitastic/LC-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Harshitastic/LC-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshitastic/LC-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
