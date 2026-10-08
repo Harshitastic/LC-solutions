@@ -86,6 +86,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0678-valid-parenthesis-string](https://github.com/Harshitastic/LC-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Harshitastic/LC-solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Harshitastic/LC-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -172,6 +173,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0735-asteroid-collision](https://github.com/Harshitastic/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Harshitastic/LC-solutions/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harshitastic/LC-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshitastic/LC-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -516,4 +518,5 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
