@@ -92,6 +92,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshitastic/LC-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshitastic/LC-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshitastic/LC-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2409-count-days-spent-together](https://github.com/Harshitastic/LC-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitastic/LC-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshitastic/LC-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshitastic/LC-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -195,6 +196,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshitastic/LC-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshitastic/LC-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Harshitastic/LC-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshitastic/LC-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitastic/LC-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshitastic/LC-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
