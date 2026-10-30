@@ -19,6 +19,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harshitastic/LC-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Harshitastic/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0039-combination-sum) |
@@ -107,6 +108,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshitastic/LC-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Harshitastic/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Harshitastic/LC-solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshitastic/LC-solutions/tree/master/0138-copy-list-with-random-pointer) |
