@@ -36,6 +36,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0216-combination-sum-iii](https://github.com/Harshitastic/LC-solutions/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Harshitastic/LC-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Harshitastic/LC-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Harshitastic/LC-solutions/tree/master/0496-next-greater-element-i) |
@@ -192,6 +193,7 @@ I use this repository to practice Data Structures & Algorithms regularly and imp
 | [0050-powx-n](https://github.com/Harshitastic/LC-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Harshitastic/LC-solutions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Harshitastic/LC-solutions/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshitastic/LC-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Harshitastic/LC-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshitastic/LC-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harshitastic/LC-solutions/tree/master/0877-stone-game) |
